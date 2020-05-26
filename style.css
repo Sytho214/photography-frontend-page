@@ -1,0 +1,30 @@
+.nav-wrapper, .page-footer {
+  /*background: #3eb307;*/
+  background: #00ba79;
+}
+
+.slider-cap
+{
+    font-family: Caveat;
+   
+}
+body
+{
+    font-family: Caveat;
+}
+
+.navlink
+{
+    font-size: 30px;
+}
+
+.service
+{
+    padding: 20px;
+    border-radius: 20%;
+}
+
+.page-footer
+{
+    font-family: arial;
+}
